@@ -1,0 +1,24 @@
+// Components used are
+Hardware and Modules Used
+
+LCD Display (I2C-based, e.g., 16x2 LCD)
+HX711 Module (Analog-to-Digital Converter for load cell)
+Load Cell (Weight measurement sensor)
+GSM Module (e.g., SIM800L, for sending SMS notifications)
+Arduino Microcontroller (e.g., Arduino Uno or Nano)
+LEDs (For status or alert indicators)
+Resistors (For circuit connections)
+Jumper Wires (For making electrical connections)
+Breadboard or PCB (For circuit assembly)
+Power Supply (USB cable, battery, or external adapter)
+
+
+
+// Software used
+
+Arduino IDE (for programming the Arduino microcontroller)
+Serial Monitor (for debugging and monitoring output)
+Libraries:
+LiquidCrystal_I2C (for LCD control)
+HX711 Library (for load cell integration)
+
