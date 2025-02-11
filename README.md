@@ -40,4 +40,4 @@ The **Smart IV Bottle Alarm System** is an advanced medical monitoring device de
 🚀 **Mobile app development** for real-time alerts & analytics.  
 🚀 **AI-based predictive alerts** for better patient care.  
 
-This **Smart IV Bottle Alarm System** ensures **timely intervention**, reducing risks and improving healthcare efficiency. 💡
+This **Smart IV Bottle Alarm System** ensures **timely intervention**, reducing risks and improving healthcare efficiency.  💡
