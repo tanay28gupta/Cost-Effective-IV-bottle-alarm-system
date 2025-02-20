@@ -21,7 +21,7 @@ The **Smart IV Bottle Alarm System** is an advanced medical monitoring device de
 ✔ **SMS alerts** via a GSM module when fluid is low.  
 ✔ **LED and buzzer indicators** for immediate visual and audible warnings.  
 ✔ **LCD display** showing current IV bottle weight.  
-✔ **Easy threshold customization** for different IV fluid types.  
+✔ **Easy threshold customization** for different IV fluid types. 
 
 ## Applications
 - 🏥 Hospitals & Clinics  
